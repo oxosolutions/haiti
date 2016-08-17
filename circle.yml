@@ -4,7 +4,7 @@
 
 general:
     artifacts:
-        - /home/ubuntu/oxo/app/build/outputs/apk/
+        - /home/ubuntu/haiti/app/build/outputs/apk/
 
 machine:
     environment:
